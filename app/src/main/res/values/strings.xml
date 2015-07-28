@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimpleServiceActivity!</string>
+    <string name="app_name">SimpleService</string>
+    <string name="serviceAlive">서비스 실행 중!</string>
+    <string name="serviceStart">서비스가 실행 되었습니다.</string>
+    <string name="serviceStop">서비스가 중지 되었습니다.</string>
+    <string name="serviceRunning"> 서비스 실행됨</string>
+    <string name="serviceStateRunning">Foreground로 실행 됨</string>
+</resources>
