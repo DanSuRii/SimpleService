@@ -1,5 +1,7 @@
 package com.androidhuman.example.simpleservice;
 
+//NewComment
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
